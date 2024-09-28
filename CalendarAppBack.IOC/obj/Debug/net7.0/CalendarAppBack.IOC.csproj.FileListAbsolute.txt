@@ -21,3 +21,4 @@ C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos
 C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.IOC\obj\Debug\net7.0\refint\CalendarAppBack.IOC.dll
 C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.IOC\obj\Debug\net7.0\CalendarAppBack.IOC.pdb
 C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.IOC\obj\Debug\net7.0\ref\CalendarAppBack.IOC.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.IOC\obj\Debug\net7.0\CalendarAppBack.IOC.sourcelink.json

@@ -83,3 +83,4 @@ C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos
 C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack\obj\Debug\net7.0\ref\CalendarAppBack.dll
 C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack\obj\Debug\net7.0\CalendarAppBack.sourcelink.json

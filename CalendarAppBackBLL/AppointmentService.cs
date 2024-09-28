@@ -67,7 +67,14 @@ namespace CalendarAppBack.BLL
             try
             {
                 Appointment appointmentFound = await _appointmentRepository.Obtener(x => x.IdAppointment == appointment.IdAppointment) ?? throw new Exception("Cita no encontrada");
-                bool appointmentEdited = await _appointmentRepository.Editar(_mapper.Map<Appointment>(appointment));
+                appointmentFound.NameAppointment = appointment.NameAppointment;
+                appointmentFound.FirstNameClient = appointment.FirstNameClient;
+                appointmentFound.LastName = appointment.LastName;
+                appointmentFound.Phone = appointment.Phone;
+                appointmentFound.StartDate = DateTime.Parse(appointment.StartDate);
+                appointmentFound.EndDate = DateTime.Parse(appointment.EndDate);
+                appointmentFound.UpdatedAt = DateTime.Now;
+                bool appointmentEdited = await _appointmentRepository.Editar(appointmentFound);
                 return appointment;
             }
             catch
