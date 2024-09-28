@@ -1,0 +1,11 @@
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\bin\Debug\net7.0\CalendarAppBack.DTO.deps.json
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\bin\Debug\net7.0\CalendarAppBack.DTO.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\bin\Debug\net7.0\CalendarAppBack.DTO.pdb
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\CalendarAppBack.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\CalendarAppBack.DTO.AssemblyInfoInputs.cache
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\CalendarAppBack.DTO.AssemblyInfo.cs
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\CalendarAppBack.DTO.csproj.CoreCompileInputs.cache
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\CalendarAppBack.DTO.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\refint\CalendarAppBack.DTO.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\CalendarAppBack.DTO.pdb
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DTO\obj\Debug\net7.0\ref\CalendarAppBack.DTO.dll

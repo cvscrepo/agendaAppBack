@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QfJgvNz5IKApL6MLYtallU7IXye8o1hrlIW8vUTdBObbEMi4dp6F6po1y7HMhn035c/AtoRAHtsV5sbRt8t4vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JuanDavidDiazOrozco\\OneDrive - Colviseg del Caribe\\Documentos\\Proyectos CVSC\\Calendar-app\\CalendarAppBack\\CalendarAppBack.DTO\\CalendarAppBack.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanDavidDiazOrozco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\JuanDavidDiazOrozco\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\JuanDavidDiazOrozco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

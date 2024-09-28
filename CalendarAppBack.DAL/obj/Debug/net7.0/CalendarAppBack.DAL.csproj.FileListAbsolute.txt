@@ -1,0 +1,17 @@
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.DAL.deps.json
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.DAL.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.DAL.pdb
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.DTO.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.Model.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.DTO.pdb
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\bin\Debug\net7.0\CalendarAppBack.Model.pdb
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.csproj.AssemblyReference.cache
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.AssemblyInfoInputs.cache
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.AssemblyInfo.cs
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.csproj.CopyComplete
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\refint\CalendarAppBack.DAL.dll
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\CalendarAppBack.DAL.pdb
+C:\Users\JuanDavidDiazOrozco\OneDrive - Colviseg del Caribe\Documentos\Proyectos CVSC\Calendar-app\CalendarAppBack\CalendarAppBack.DAL\obj\Debug\net7.0\ref\CalendarAppBack.DAL.dll

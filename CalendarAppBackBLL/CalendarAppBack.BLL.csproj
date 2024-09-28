@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CalendarAppBack.DAL\CalendarAppBack.DAL.csproj" />
+    <ProjectReference Include="..\CalendarAppBack.DTO\CalendarAppBack.DTO.csproj" />
+    <ProjectReference Include="..\CalendarAppBack.Model\CalendarAppBack.Model.csproj" />
+    <ProjectReference Include="..\CalendarAppBack.Utility\CalendarAppBack.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
